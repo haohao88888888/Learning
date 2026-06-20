@@ -1,2 +1,2 @@
 # Paper
-This repository is used to store my paper code
+This repository is used to store my Learning code with cherno
